@@ -1,4 +1,3 @@
-# Build artifacts
 Debug/
 Release/
 *.o
@@ -8,13 +7,11 @@ Release/
 *.map
 *.list
 
-# IDE specific settings and hidden files
 .metadata/
 .settings/
 *.launch
 *.uvoptx
 *.uvprojx
 
-# OS specific files
 .DS_Store
 Thumbs.db
