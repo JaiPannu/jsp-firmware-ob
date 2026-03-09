@@ -1,0 +1,1 @@
+Added the CLI Check -> [Core/Src/main.c](Core/Src/main.c) -> Added the FreeRTOS plus CLI files from the official repo
