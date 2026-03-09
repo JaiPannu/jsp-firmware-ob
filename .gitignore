@@ -1,0 +1,20 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE specific settings and hidden files
+.metadata/
+.settings/
+*.launch
+*.uvoptx
+*.uvprojx
+
+# OS specific files
+.DS_Store
+Thumbs.db
